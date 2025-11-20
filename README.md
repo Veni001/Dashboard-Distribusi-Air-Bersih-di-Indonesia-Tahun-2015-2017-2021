@@ -1,2 +1,2 @@
-# Dashboard-Distribusi-Air-Bersih-di-Indonesia-Tahun-2015-2017-2021
-Project ini menerapkan dashboard distribusi air bersih di indonesia 
+# Dashboard Distribusi Air Bersih di Indonesia Tahun 2015, 2017-2021
+Proyek ini mengembangkan dashboard interaktif untuk memvisualisasikan ketersediaan akses air bersih yang layak dan aman berdasarkan data BPS tahun 2015 serta 2018–2021. Dashboard ini menyajikan pola distribusi akses air bersih, perubahan dari waktu ke waktu, serta aspek kualitas air di berbagai wilayah, sehingga memberikan gambaran yang lebih jelas mengenai kondisi pelayanan air bersih di pedesaan Indonesia. Visualisasi yang dihasilkan membantu mempercepat pemahaman data dan mendukung pemangku kebijakan dalam membuat keputusan yang lebih tepat dan berbasis bukti. Dengan demikian, dashboard ini menjadi alat strategis dalam meningkatkan efektivitas kebijakan terkait penyediaan air bersih.
